@@ -1,0 +1,25 @@
+{
+  "explorer.sources": [
+    {
+      "name": "buffer",
+      "expand": false
+    },
+    {
+      "name": "file",
+      "expand": true
+    }
+  ],
+  "explorer.keyMappings.global": {
+    "<space>": "toggleSelection"
+  },
+  "explorer.presets": {
+    "floating": {
+      "position": "floating",
+      "open-action-strategy": "sourceWindow"
+    }
+  },
+  "explorer.icon.enableNerdfont": true,
+  "explorer.buffer.tabOnly": true,
+  "explorer.file.autoReveal": true,
+  "explorer.debug": true
+}
